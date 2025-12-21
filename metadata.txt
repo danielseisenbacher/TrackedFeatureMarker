@@ -1,0 +1,7 @@
+[general]
+name=TrackedFeatureMarker
+description=A plugin which sets an attribute field to true when a feature is created via tracking
+author=Daniel Seisenbacher
+icon=""
+version=1.0
+homepage=""
