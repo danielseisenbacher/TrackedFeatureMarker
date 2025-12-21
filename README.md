@@ -10,8 +10,8 @@ This plugin enables distinguishing between manually created features and GPS-tra
    - Install [QField on your device](https://qfield.org/get).
 
 2. **Install Plugin:**
-   - See https://docs.qfield.org/how-to/plugins/
-   - Using url method:<br>https://github.com/danielseisenbacher/TrackedFeatureMarker/releases/download/latest/TrackedFeatureMarker-plugin.zip
+   - See https://docs.qfield.org/ro/how-to/advanced-how-tos/plugins/
+   - Using url method:<br>https://github.com/danielseisenbacher/TrackedFeatureMarker/releases/download/latest/TrackedFeatureMarker.zip
 
 ## Usage
 
