@@ -50,8 +50,8 @@ Item {
 
                 //iface.logMessage("id: " + tracker.feature.id)
                 try {
-                    tracker.feature.setAttribute ('tracked', true)
-                    iface.logMessage("Set 'tracked' attribute to TRUE")
+                    tracker.feature.setAttribute ('AD_VERAENDERUNG', true)
+                    iface.logMessage("Set 'AD_VERAENDERUNG' attribute to TRUE")
                 } catch(e) {
                     iface.logMessage(e)
                 }
